@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: rgb(217, 246, 222);
-    color: rgb(31, 54, 61);
+    background-color: rgb(147, 221, 200);
+    color: rgb(30, 58, 66);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     line;
     text-align: center;
@@ -52,4 +52,16 @@ ol {
 p {
     font-size: 18px;
     margin: 10px;
+}
+
+#northandsoullogo {
+    width: 70px;
+}
+
+#discogslogo {
+    width: 70px;
+}
+
+#uparrow {
+    width: 30px;
 }
